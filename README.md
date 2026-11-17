@@ -3,7 +3,7 @@
 
 ### Repository Information
 
-This repository contains a metadata.csv which contains OpenLibrary IDs for each cover used in this analysis.
+This repository contains a metadata.csv.gz which contains OpenLibrary IDs for each cover used in this analysis.
 
 Please reach out to the lead author if you have questions.
 
